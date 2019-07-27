@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is created from local repo
+=========
+create from github
+>>>>>>> 6d969c26991eb140f8a49ed4d0c8e77e56c7e36e
